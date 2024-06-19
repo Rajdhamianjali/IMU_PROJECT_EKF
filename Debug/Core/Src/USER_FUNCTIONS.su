@@ -1,0 +1,2 @@
+USER_FUNCTIONS.c:16:5:buffersize	24	static
+USER_FUNCTIONS.c:31:6:myprintf	16	static
